@@ -1,0 +1,61 @@
+array(1) {
+  [0]=>
+  array(4) {
+    ["invoice_date"]=>
+    string(10) "2018-05-08"
+    ["invoice_delivery_date"]=>
+    string(10) "2017-12-31"
+    ["invoice_mpo"]=>
+    string(1) "j"
+    ["invoice_territory"]=>
+    string(1) "j"
+  }
+}
+array(2) {
+  [0]=>
+  array(6) {
+    ["product_brand_name"]=>
+    string(7) "Cal-Med"
+    ["product_generic_name"]=>
+    string(16) "Calcium Solution"
+    ["product_tp"]=>
+    string(3) "788"
+    ["product_quantity"]=>
+    string(2) "40"
+    ["product_foc"]=>
+    string(1) "4"
+    ["quantity"]=>
+    string(5) "31520"
+  }
+  [1]=>
+  array(6) {
+    ["product_brand_name"]=>
+    string(7) "Cal-Med"
+    ["product_generic_name"]=>
+    string(16) "Calcium Solution"
+    ["product_tp"]=>
+    string(3) "555"
+    ["product_quantity"]=>
+    string(2) "40"
+    ["product_foc"]=>
+    string(1) "0"
+    ["quantity"]=>
+    string(5) "22200"
+  }
+}
+array(1) {
+  [0]=>
+  array(3) {
+    ["customer_name"]=>
+    string(1) "l"
+    ["customer_contact"]=>
+    string(1) "k"
+    ["customer_address"]=>
+    string(2) "k "
+  }
+}
+string(5) "22200"
+string(1) "4"
+string(3) "888"
+string(5) "31520"
+string(5) "52832"
